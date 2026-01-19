@@ -31,7 +31,3 @@ Live network traffic was captured using Wireshark over a Wi-Fi connection. Multi
 - 3 (PDF)
 - Wireshark Packet Capture File (.pcapng)
 
-
-
-## Author
-Prajwal S Shetty
